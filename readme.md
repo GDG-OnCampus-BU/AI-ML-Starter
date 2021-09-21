@@ -10,11 +10,11 @@ Pick a issue or create a new its up-to you, look at contributing file before mak
 ## List of project
 
 ### Template
-#### Name - Name of you algorithm you implemented or Name of the project
-#### Tag - implementation/Project any one
-#### Description - description about your implementation or project, what libraries used, usage and basic working
-#### Extra - Extra points
-#### Path - path to the project in repo
+* Name - Name of you algorithm you implemented or Name of the project
+* Tag - implementation/Project any one
+* Description - description about your implementation or project, what libraries used, usage and basic working
+* Extra - Extra points
+* Path - path to the project in repo
 
 
 # Have fun and keep learning new things🔥🔥
