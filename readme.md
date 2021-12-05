@@ -9,6 +9,12 @@ Pick a issue or create a new its up-to you, look at contributing file before mak
 
 ## List of project
 
+### Linear Regression
+* Linear Regression Algorithm (#Algorithm) 
+Linear Regression Algo from scratch (Pure python:) ) based on mean squared error (MSE) and Two different Optimization methods:
+** Analytical solution
+** Gradient descent
+[Link to Linear Regression Algo](https://github.com/DSC-Bennett-University/AI-ML-Starter/blob/main/Algorithm/LinearReg.py)
 ### Template
 * Name - Name of you algorithm you implemented or Name of the project
 * Tag - implementation/Project any one
